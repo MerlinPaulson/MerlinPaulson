@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything, will reply if I know about it**
 
-- 📫 How to reach me **merlinpaulson@outlook.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
