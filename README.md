@@ -20,7 +20,7 @@
  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="URL_TO_JIRA_ICON" alt="Jira" width="40" height="40"/> Jira
   </a>
-  </a>
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merlinpaulson&show_icons=true&locale=en&layout=compact" alt="merlinpaulson" /></p>
 
