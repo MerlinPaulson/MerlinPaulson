@@ -1,3 +1,5 @@
+<img align="right" width ="400" src ="https://github.com/TestingandQA-Works/TestingandQA-Works/blob/main/image.gif?raw=true">
+
 ## About Me:
 - I am passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
