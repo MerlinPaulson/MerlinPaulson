@@ -12,7 +12,7 @@
 - Thorough understanding of product requirements to develop comprehensive test scenarios and test cases.
 - Able to execute automated tests.
 - Familiarity in Java and skilled in utilizing Selenium WebDriver and Appium.
-- Proficient in test management, employing tools like TestNG and Maven for efficient test case management.
+- Proficient in TestNG and Maven.
 - Able to analyze test results to identify defects and escalate issues to software development and QA teams.
 - Experience with version control systems, particularly Git, for collaborative development workflows.
 - Proactive in taking initiative to drive projects and collaborate effectively within the team.
