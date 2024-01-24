@@ -3,7 +3,7 @@
 ## About Me:
 - I am passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
-- Currently in the process of mastering Software Testing
+- Currently in the process of mastering Software Testing.
 ## Skills:
 - Knowledge in software development and testing process.
 - Expertise in using management tools such as Jira for issue tracking and project management.
