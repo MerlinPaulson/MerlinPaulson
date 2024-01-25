@@ -5,7 +5,7 @@
 <img align="right" width ="400" src ="https://github.com/MerlinPaulson/MerlinPaulson/blob/1b7417863d832e4049c4d83a7383d9f762254234/image.gif?raw=true">
 
 ## About Me:
-- I am passionate about software testing and quality assurance.
+- My name is Merlin Paulson. I am passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
 - Currently in the process of mastering Software Testing.
 ## Skills:
