@@ -8,16 +8,16 @@
 - My name is Merlin Paulson. I am passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
 - Currently in the process of mastering Software Testing.
+  
 ## Skills:
 - Knowledge in software development and testing process.
-- Expertise in using management tools such as Jira for issue tracking and project management.
-- Possess very good requirement analysis skills.
 - Capable of developing test plans and execute tests.
 - Thorough understanding of product requirements to develop comprehensive test scenarios and test cases.
 - Able to execute automated tests.
 - Familiarity in Java and skilled in utilizing Selenium WebDriver and Appium.
 - Proficient in TestNG and Maven.
 - Able to analyze test results to identify defects and escalate issues to software development and QA teams.
+- Expertise in using management tools such as Jira for issue tracking and project management.
 - Experience with version control systems, particularly Git, for collaborative development workflows.
 - Proactive in taking initiative to drive projects and collaborate effectively within the team.
 - Possess strong communication skills, attention to detail and problem-solving skills.
