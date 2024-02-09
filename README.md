@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=testingandqa-works&label=Profile%20views&color=0e75b6&style=flat" alt="testingandqa-works" />
+  <img src="https://komarev.com/ghpvc/?username=merlinpaulson&label=Profile%20views&color=0e75b6&style=flat" alt="testingandqa-works" />
 </p>
 
 <img align="right" width ="400" src ="https://github.com/MerlinPaulson/MerlinPaulson/blob/1b7417863d832e4049c4d83a7383d9f762254234/image.gif?raw=true">
