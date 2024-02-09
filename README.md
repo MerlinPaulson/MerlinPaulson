@@ -26,7 +26,7 @@
 - Familiarity in Java and skilled in utilizing Selenium WebDriver and Appium.
 - Proficient in TestNG and Maven.
 - Able to analyze test results to identify defects and escalate issues to software development and QA teams.
-- Expertise in using management tools such as Jira for issue tracking and project management.
+- Expertise in Jira for issue tracking and project management.
 - Experience with version control systems, particularly Git, for collaborative development workflows.
 - Proactive in taking initiative to drive projects and collaborate effectively within the team.
 - Possess strong communication skills, attention to detail and problem-solving skills.
