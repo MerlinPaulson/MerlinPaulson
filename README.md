@@ -5,6 +5,18 @@
 - My name is Merlin Paulson. I am passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
 - Currently in the process of mastering Software Testing.
+
+ ## Technology Stack:
+
+- **Languages:** Java, PHP, Python
+- **IDE:** Eclipse, Visual Studio Code
+-  **Testing Tools:** Selenium, TestNG, Appium, JMeter
+- **Build Tools:** Apache Maven
+- **Database:** SQL
+- **Issue Tracking:** Jira
+- **Web Development Framework:** Django
+- **Server Environments:** XAMPP, WampServer
+- **CRM:** Odoo, Dynamics CRM, Salesforce
   
 ## Skills:
 - Knowledge in software development and testing process.
@@ -20,14 +32,4 @@
 - Possess strong communication skills, attention to detail and problem-solving skills.
 - Strong emphasis on reliability, ensuring software quality and a passion to continuously improve testing process.  
 
-## Technology Stack:
 
-- **Languages:** Java, PHP, Python
-- **IDE:** Eclipse, Visual Studio Code
--  **Testing Tools:** Selenium, TestNG, Appium, JMeter
-- **Build Tools:** Apache Maven
-- **Database:** SQL
-- **Issue Tracking:** Jira
-- **Web Development Framework:** Django
-- **Server Environments:** XAMPP, WampServer
-- **CRM:** Odoo, Dynamics CRM, Salesforce
