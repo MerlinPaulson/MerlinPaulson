@@ -20,9 +20,8 @@
   
 ## Skills:
 - Knowledge in software development and testing process.
-- Capable of developing test plans and execute tests.
 - Thorough understanding of product requirements to develop comprehensive test scenarios and test cases.
-- Able to execute automated tests.
+- Capable of developing test plans and execute tests.
 - Familiarity in Java and skilled in utilizing Selenium WebDriver and Appium.
 - Proficient in TestNG and Maven.
 - Able to analyze test results to identify defects and escalate issues to software development and QA teams.
