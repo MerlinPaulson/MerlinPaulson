@@ -1,15 +1,15 @@
 <img src="https://komarev.com/ghpvc/?username=merlinpaulson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 <img align="right" width ="400" src ="https://github.com/MerlinPaulson/MerlinPaulson/blob/1b7417863d832e4049c4d83a7383d9f762254234/image.gif?raw=true">
 
-## About Me:
+About Me:
+
 - My name is Merlin Paulson. I am passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
 - Currently in the process of mastering Software Testing.
 
- ## Technology Stack:
-
+Technology Stack:
 - **Languages:** Java, PHP, Python
-- **IDE:** Eclipse, Visual Studio Code
+- **IDE:** Eclipse, Visual Studio Code, PyCharm
 -  **Testing Tools:** Selenium, TestNG, Appium, JMeter
 - **Build Tools:** Apache Maven
 - **Database:** SQL
@@ -18,7 +18,7 @@
 - **Server Environments:** XAMPP, WampServer
 - **CRM:** Odoo, Dynamics CRM, Salesforce
   
-## Skills:
+Skills:
 - Knowledge in software development and testing process.
 - Thorough understanding of product requirements to develop comprehensive test scenarios and test cases.
 - Capable of developing test plans and execute tests.
